@@ -1,0 +1,16 @@
+
+
+.card{
+    background-color: rgb(69, 69, 69);
+    color: whitesmoke;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 1.5rem;
+    display: grid;
+    place-items: center;
+}
+
+.card button{
+    padding: 5px;
+    font-weight: bold;
+}
