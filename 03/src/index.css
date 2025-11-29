@@ -19,15 +19,15 @@ body{
     padding: 20px;
     border-radius: 50%;
     object-fit: cover;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 
 .card{
     margin: 20px;
     padding: 20px;
-    height: 300px;
-    width: 300px;
+    height: 350px;
+    width: 310px;
     color: black;
     border: 2px solid white;
     border-radius: 10%;
@@ -40,6 +40,7 @@ body{
 }
 
 .card button{
+    margin-top: 10px;
     padding: 10px 20px;
     background-color: white;
     color: black;
